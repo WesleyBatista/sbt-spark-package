@@ -10,7 +10,7 @@ sbt-spark-package is a Sbt plugin that aims to simplify the use and development 
 Requirements
 ============
 
-* sbt
+* sbt (0.13.6 ~ 0.13.16)
 
 Setup
 =====
